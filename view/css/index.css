@@ -1,0 +1,27 @@
+body {
+    background-color: #3b3b3b;
+    font-family: 'Ubuntu', cursive;
+}
+h2 {
+    text-align: center;
+    color: rgb(240, 213, 10);
+}
+#content-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#content-items .item {
+    margin-top: 2.5%;
+    padding: 20px;
+}
+#content-items .item a {
+    padding: 10px;
+    align-self: left;
+    color: #f0f0f0;
+    text-decoration: none;
+}
+#content-items .item h3 {
+   text-align: center;
+   color: rgb(240, 213, 10);
+}

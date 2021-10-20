@@ -1,0 +1,21 @@
+body {
+    background-color: #3b3b3b;
+    font-family: 'Ubuntu', cursive;
+}
+fieldset {
+    margin: 2.5% 40%;
+}
+#content-items {
+    color: #e8e9eb;
+}
+#content-items h3 {
+    text-align: center;
+    color: rgb(240, 213, 10);
+}
+#content-items .item {
+    padding: 5px 20px;
+}
+#content-items .submit {
+    padding: 5px 10px;
+    margin-left: 30%;
+}
